@@ -38,14 +38,64 @@ CIRCUIT DIAGRAMS
 
 Half wave rectifier with filter:
 
-Bridge rectifier with filter:
+![WhatsApp Image 2025-11-10 at 13 28 19_e79a448f](https://github.com/user-attachments/assets/b5bc7ebd-01ad-4127-b37b-2c8b18d1ba8f)
+
+
+Half wave rectifier without filter:
+
+![WhatsApp Image 2025-11-10 at 13 28 05_30abc46d](https://github.com/user-attachments/assets/4f91f8a8-27cb-4485-9cba-851bc8eb07c2)
+
+
+
+Full wave rectifier with filter:
+![WhatsApp Image 2025-11-10 at 13 29 15_13bd3aff](https://github.com/user-attachments/assets/8563d916-b8cd-4433-a62f-c245a377a040)
+
+
+Full wave rectifier without filter:
+
+![WhatsApp Image 2025-11-10 at 13 29 01_7689c19b](https://github.com/user-attachments/assets/d8ebfcc2-909f-49de-a151-af9071e696cf)
+
 
 TABULAR COLUMN
-Rectifier without filter
+
+Half wave Rectifier 
+![WhatsApp Image 2025-11-10 at 13 28 32_c1213461](https://github.com/user-attachments/assets/17f3ef18-f4e6-451d-8953-acfd72710307)
+
+![WhatsApp Image 2025-11-10 at 13 28 48_28397488](https://github.com/user-attachments/assets/78a791a0-e16a-48cc-99ad-d5b4ca6e6c75)
+
+
 TABULAR COLUMN
-Rectifier with filter
+
+Full wave Rectifier 
+
+![WhatsApp Image 2025-11-10 at 13 29 32_fdf55619](https://github.com/user-attachments/assets/e1bda776-c115-4a3f-b18c-5698b2515d66)
+![WhatsApp Image 2025-11-10 at 13 29 47_e9561281](https://github.com/user-attachments/assets/bd167d26-8fbe-4ba5-b2bb-07a50daacc42)
+
 
 WAVEFORM:
+
+Half wave without filter
+
+![WhatsApp Image 2025-11-10 at 13 34 10_c7af2619](https://github.com/user-attachments/assets/a0641a02-1814-4e6b-a35e-f199d354c538)
+
+
+
+Half wave with filter
+
+![WhatsApp Image 2025-11-10 at 13 34 10_b8fb8c93](https://github.com/user-attachments/assets/ef08be7a-e013-489c-95fc-5f6c88de448c)
+
+
+
+Full wave without filter
+
+![WhatsApp Image 2025-11-10 at 13 34 10_8c739cbb](https://github.com/user-attachments/assets/8a030c21-fdb7-4271-904e-5252e9283971)
+
+
+
+Full wave with filter 
+
+![WhatsApp Image 2025-11-10 at 13 34 10_0e164a37](https://github.com/user-attachments/assets/0f088981-ee96-42ed-a35e-541046a64bc9)
+
 
 
 RESULT:
